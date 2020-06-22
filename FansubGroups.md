@@ -23,7 +23,7 @@
 - **Camping-Sub** `לא_ידוע` \
   https://www.anime-spin.net/%D7%A7%D7%91%D7%95%D7%A6%D7%94/campingsub
 
-- **FantasticSub** `פעיל` \
+- **FantasticSub** `לא_ידוע` \
   https://www.anime-spin.net/%D7%A7%D7%91%D7%95%D7%A6%D7%94/fantastic-sub
 
 - **Fun-Sub** `פעיל` `+3` \
